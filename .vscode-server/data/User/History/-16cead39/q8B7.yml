@@ -1,0 +1,18 @@
+---
+# deployment
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: webui
+  namespace: metallb-system
+spec:
+
+
+
+---
+kind: Service
+apiVersion: v1
+metadata:
+  name: webapp-loadbalancer-svc
+spec:
+  type: 

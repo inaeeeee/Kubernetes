@@ -1,0 +1,10 @@
+---
+kind: Pod
+apiVersion: v1
+metadata:
+  name: web-pvc
+spec:
+  containers:
+  - name: nginx
+    image: nginx:1.14
+    containerPort: 80

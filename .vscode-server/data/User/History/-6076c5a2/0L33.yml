@@ -1,0 +1,11 @@
+---
+kind: Pod
+apiVersion: v1
+metadata:
+  name: empty-pod
+sepc:
+  containers:
+  - name: web-server
+    images: nginx:1.14
+    ports:
+    - containerPort: 80

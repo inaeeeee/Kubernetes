@@ -1,0 +1,32 @@
+---
+kind: Delployment
+apiVersion: apps/v1
+metadata:
+  name:
+spec:
+  seplicas: 3
+  selector:
+    matchLabels:
+      app: webui
+  template:
+    metadata:
+      name: nginx-pod
+      labels:
+        app: webui
+    spec:
+      containers:
+      - name: nginx-container
+        image: nginx:1.14
+
+---
+kind: Service
+apiVersion: v1
+metadata:
+  name: headless-service
+spec:
+  type: ClusterIP
+  clusterIP: None
+  selector:
+    app: webui
+  ports:
+  

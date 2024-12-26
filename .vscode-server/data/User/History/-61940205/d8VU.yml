@@ -1,0 +1,9 @@
+---
+#Deployment
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: mongodb-deploy
+  labels:
+    app: mongodb
+spec:

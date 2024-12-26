@@ -1,0 +1,4 @@
+https:push.services.mozilla.com:443:.::3	0	20063	https:push.services.mozilla.com:443:push.services.mozilla.com:443::n:1736059039:h3:y:1733463416:n::|n:y:
+https:contile.services.mozilla.com:443:.::3	0	20063	https:contile.services.mozilla.com:443:contile.services.mozilla.com:443::n:1736059038:h3:y:1733463416:n::|n:y:
+https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	0	20063	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1736059039:h3:y:1733465011:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:
+https:location.services.mozilla.com:443:.::3	0	20063	https:location.services.mozilla.com:443:location.services.mozilla.com:443::n:1736055417:h3:y:1733463416:n::|n:y:

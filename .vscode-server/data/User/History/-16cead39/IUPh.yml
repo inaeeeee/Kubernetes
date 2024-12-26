@@ -1,0 +1,7 @@
+---
+kind: Service
+apiVersion: v1
+metadata:
+  name: webapp-loadbalancer-svc
+spec:
+  type: 

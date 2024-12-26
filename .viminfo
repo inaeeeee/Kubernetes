@@ -1,0 +1,421 @@
+# 이 viminfo 파일은 빔이 만든 것입니다 Vim 8.2.
+# 조심만 한다면 고칠 수도 있습니다!
+
+# Viminfo version
+|1,4
+
+# 이 파일이 저장되었을 때의 'encoding'의 값
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# 명령 행 히스토리 (새것부터 오래된 것 순):
+:q!
+|2,0,1734924686,,"q!"
+:wq!
+|2,0,1733809435,,"wq!"
+
+# 찾을 문자열 히스토리 (새것부터 오래된 것 순):
+
+# 표현 히스토리 (새것부터 오래된 것 순):
+
+# 입력 행 히스토리 (새것부터 오래된 것 순):
+
+# 디버그 행 히스토리 (새것부터 오래된 것 순):
+
+# 레지스터:
+""1	LINE	0
+	  startTime: "2024-12-10T05:34:10Z"
+|3,1,1,1,1,0,1733809402,"  startTime: \"2024-12-10T05:34:10Z\""
+"2	LINE	0
+	  qosClass: BestEffort
+|3,0,2,1,1,0,1733809399,"  qosClass: BestEffort"
+"3	LINE	0
+	  - ip: 172.16.11.75
+|3,0,3,1,1,0,1733809399,"  - ip: 172.16.11.75"
+"4	LINE	0
+	  podIPs:
+|3,0,4,1,1,0,1733809398,"  podIPs:"
+"5	LINE	0
+	  podIP: 172.16.11.75
+|3,0,5,1,1,0,1733809398,"  podIP: 172.16.11.75"
+"6	LINE	0
+	  phase: Running
+|3,0,6,1,1,0,1733809397,"  phase: Running"
+"7	LINE	0
+	  - ip: 192.168.10.11
+|3,0,7,1,1,0,1733809396,"  - ip: 192.168.10.11"
+"8	LINE	0
+	  hostIPs:
+|3,0,8,1,1,0,1733809396,"  hostIPs:"
+"9	LINE	0
+	  hostIP: 192.168.10.11
+|3,0,9,1,1,0,1733809396,"  hostIP: 192.168.10.11"
+
+# 파일 마크:
+'0  53  0  ~/.bashrc
+|4,48,53,0,1734924686,"~/.bashrc"
+'1  15  31  ~/kube/15/useradd/testpod.yml
+|4,49,15,31,1733809435,"~/kube/15/useradd/testpod.yml"
+'2  15  14  ~/kube/14/project5/tensorflow.yml
+|4,50,15,14,1733800329,"~/kube/14/project5/tensorflow.yml"
+'3  19  0  ~/kube/14/cordon_drain/nginx-deploy.yml
+|4,51,19,0,1733799282,"~/kube/14/cordon_drain/nginx-deploy.yml"
+'4  24  7  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,52,24,7,1733797172,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+'5  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,53,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+'6  28  0  ~/kube/14/podAffinity/pod-antiaffinity.yml
+|4,54,28,0,1733793335,"~/kube/14/podAffinity/pod-antiaffinity.yml"
+'7  28  0  ~/kube/14/podAffinity/pod-affinity.yml
+|4,55,28,0,1733793109,"~/kube/14/podAffinity/pod-affinity.yml"
+'8  24  0  ~/kube/14/nodeAffinity/tensorflow-gpu-ssd.yml
+|4,56,24,0,1733792380,"~/kube/14/nodeAffinity/tensorflow-gpu-ssd.yml"
+'9  13  14  ~/kube/14/nodeSelector/tensorflow-gpu.yml
+|4,57,13,14,1733726187,"~/kube/14/nodeSelector/tensorflow-gpu.yml"
+
+# 점프목록 (새것이 먼저):
+-'  53  0  ~/.bashrc
+|4,39,53,0,1734924686,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1734924588,"~/.bashrc"
+-'  15  31  ~/kube/15/useradd/testpod.yml
+|4,39,15,31,1733809435,"~/kube/15/useradd/testpod.yml"
+-'  15  31  ~/kube/15/useradd/testpod.yml
+|4,39,15,31,1733809435,"~/kube/15/useradd/testpod.yml"
+-'  1  0  ~/kube/15/useradd/testpod.yml
+|4,39,1,0,1733809284,"~/kube/15/useradd/testpod.yml"
+-'  1  0  ~/kube/15/useradd/testpod.yml
+|4,39,1,0,1733809284,"~/kube/15/useradd/testpod.yml"
+-'  15  14  ~/kube/14/project5/tensorflow.yml
+|4,39,15,14,1733800329,"~/kube/14/project5/tensorflow.yml"
+-'  15  14  ~/kube/14/project5/tensorflow.yml
+|4,39,15,14,1733800329,"~/kube/14/project5/tensorflow.yml"
+-'  15  14  ~/kube/14/project5/tensorflow.yml
+|4,39,15,14,1733800329,"~/kube/14/project5/tensorflow.yml"
+-'  15  14  ~/kube/14/project5/tensorflow.yml
+|4,39,15,14,1733800329,"~/kube/14/project5/tensorflow.yml"
+-'  1  0  ~/kube/14/project5/tensorflow.yml
+|4,39,1,0,1733800324,"~/kube/14/project5/tensorflow.yml"
+-'  1  0  ~/kube/14/project5/tensorflow.yml
+|4,39,1,0,1733800324,"~/kube/14/project5/tensorflow.yml"
+-'  1  0  ~/kube/14/project5/tensorflow.yml
+|4,39,1,0,1733800324,"~/kube/14/project5/tensorflow.yml"
+-'  1  0  ~/kube/14/project5/tensorflow.yml
+|4,39,1,0,1733800324,"~/kube/14/project5/tensorflow.yml"
+-'  19  0  ~/kube/14/cordon_drain/nginx-deploy.yml
+|4,39,19,0,1733799282,"~/kube/14/cordon_drain/nginx-deploy.yml"
+-'  19  0  ~/kube/14/cordon_drain/nginx-deploy.yml
+|4,39,19,0,1733799282,"~/kube/14/cordon_drain/nginx-deploy.yml"
+-'  19  0  ~/kube/14/cordon_drain/nginx-deploy.yml
+|4,39,19,0,1733799282,"~/kube/14/cordon_drain/nginx-deploy.yml"
+-'  19  0  ~/kube/14/cordon_drain/nginx-deploy.yml
+|4,39,19,0,1733799282,"~/kube/14/cordon_drain/nginx-deploy.yml"
+-'  19  0  ~/kube/14/cordon_drain/nginx-deploy.yml
+|4,39,19,0,1733799282,"~/kube/14/cordon_drain/nginx-deploy.yml"
+-'  19  0  ~/kube/14/cordon_drain/nginx-deploy.yml
+|4,39,19,0,1733799282,"~/kube/14/cordon_drain/nginx-deploy.yml"
+-'  19  0  ~/kube/14/cordon_drain/nginx-deploy.yml
+|4,39,19,0,1733799282,"~/kube/14/cordon_drain/nginx-deploy.yml"
+-'  19  0  ~/kube/14/cordon_drain/nginx-deploy.yml
+|4,39,19,0,1733799282,"~/kube/14/cordon_drain/nginx-deploy.yml"
+-'  1  0  ~/kube/14/cordon_drain/nginx-deploy.yml
+|4,39,1,0,1733799275,"~/kube/14/cordon_drain/nginx-deploy.yml"
+-'  1  0  ~/kube/14/cordon_drain/nginx-deploy.yml
+|4,39,1,0,1733799275,"~/kube/14/cordon_drain/nginx-deploy.yml"
+-'  1  0  ~/kube/14/cordon_drain/nginx-deploy.yml
+|4,39,1,0,1733799275,"~/kube/14/cordon_drain/nginx-deploy.yml"
+-'  1  0  ~/kube/14/cordon_drain/nginx-deploy.yml
+|4,39,1,0,1733799275,"~/kube/14/cordon_drain/nginx-deploy.yml"
+-'  1  0  ~/kube/14/cordon_drain/nginx-deploy.yml
+|4,39,1,0,1733799275,"~/kube/14/cordon_drain/nginx-deploy.yml"
+-'  1  0  ~/kube/14/cordon_drain/nginx-deploy.yml
+|4,39,1,0,1733799275,"~/kube/14/cordon_drain/nginx-deploy.yml"
+-'  1  0  ~/kube/14/cordon_drain/nginx-deploy.yml
+|4,39,1,0,1733799275,"~/kube/14/cordon_drain/nginx-deploy.yml"
+-'  1  0  ~/kube/14/cordon_drain/nginx-deploy.yml
+|4,39,1,0,1733799275,"~/kube/14/cordon_drain/nginx-deploy.yml"
+-'  24  7  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,24,7,1733797172,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  24  7  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,24,7,1733797172,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  24  7  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,24,7,1733797172,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  24  7  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,24,7,1733797172,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  24  7  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,24,7,1733797172,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  24  7  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,24,7,1733797172,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  24  7  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,24,7,1733797172,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  24  7  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,24,7,1733797172,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  24  7  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,24,7,1733797172,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  24  7  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,24,7,1733797172,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  24  7  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,24,7,1733797172,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  24  7  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,24,7,1733797172,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  24  7  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,24,7,1733797172,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  24  7  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,24,7,1733797172,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  24  7  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,24,7,1733797172,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  24  7  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,24,7,1733797172,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,1,0,1733797130,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,1,0,1733797130,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,1,0,1733797130,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,1,0,1733797130,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,1,0,1733797130,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,1,0,1733797130,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,1,0,1733797130,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,1,0,1733797130,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,1,0,1733797130,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,1,0,1733797130,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,1,0,1733797130,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,1,0,1733797130,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,1,0,1733797130,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,1,0,1733797130,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,1,0,1733797130,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+|4,39,1,0,1733797130,"~/kube/14/taint_toleration/nginx-toleration-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  19  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,19,0,1733797027,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,1,0,1733797021,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,1,0,1733797021,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,1,0,1733797021,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,1,0,1733797021,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,1,0,1733797021,"~/kube/14/taint_toleration/nginx-deploy.yml"
+-'  1  0  ~/kube/14/taint_toleration/nginx-deploy.yml
+|4,39,1,0,1733797021,"~/kube/14/taint_toleration/nginx-deploy.yml"
+
+# 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> ~/.bashrc
+	*	1734924684	0
+	"	53	0
+
+> ~/kube/15/useradd/testpod.yml
+	*	1733809433	0
+	"	15	31
+	^	15	32
+	.	15	31
+	+	4	0
+	+	8	0
+	+	11	0
+	+	15	0
+	+	15	31
+
+> ~/kube/14/project5/tensorflow.yml
+	*	1733800328	0
+	"	15	14
+	^	15	15
+	.	15	14
+	+	15	14
+
+> ~/kube/14/cordon_drain/nginx-deploy.yml
+	*	1733799280	0
+	"	19	0
+	^	19	0
+	.	18	25
+	+	18	25
+
+> ~/kube/14/taint_toleration/nginx-toleration-deploy.yml
+	*	1733797168	0
+	"	24	7
+	^	24	8
+	.	24	7
+	+	24	7
+
+> ~/kube/14/taint_toleration/nginx-deploy.yml
+	*	1733797026	0
+	"	19	0
+	^	19	0
+	.	18	25
+	+	18	25
+
+> ~/kube/14/podAffinity/pod-antiaffinity.yml
+	*	1733793334	0
+	"	28	0
+	^	28	0
+	.	27	47
+	+	27	47
+
+> ~/kube/14/podAffinity/pod-affinity.yml
+	*	1733793107	0
+	"	28	0
+	^	28	0
+	.	27	47
+	+	27	47
+
+> ~/kube/14/nodeAffinity/tensorflow-gpu-ssd.yml
+	*	1733792378	0
+	"	24	0
+	^	24	0
+	.	23	58
+	+	23	58
+
+> ~/kube/14/nodeSelector/tensorflow-gpu.yml
+	*	1733726186	0
+	"	13	14
+	^	13	15
+	.	13	14
+	+	13	14
+
+> ~/kube/13/hpa/hpa-web.yml
+	*	1733723971	0
+	"	13	0
+	^	13	0
+	.	14	0
+	+	14	0
+
+> ~/kube/13/hpa/deploy-web.yml
+	*	1733723784	0
+	"	36	0
+	^	36	0
+	.	35	20
+	+	35	20
+
+> ~/kube/13/hpa/metric-server/components.yaml
+	*	1733722567	0
+	"	140	31
+	^	140	32
+	.	140	31
+	+	140	31
+
+> /tmp/kubectl-edit-2409854510.yaml
+	*	1733714006	0
+	"	25	16
+	^	25	17
+	.	25	16
+	+	25	16
+
+> ~/kube/12/storage/hostpath.yml
+	*	1733467658	0
+	"	15	38
+	^	15	39
+	.	15	38
+	+	15	38
+
+> ~/kube/11/mongodb/mongo-secret.yml
+	*	1733458919	0
+	"	6	4
+	^	6	5
+	.	8	34
+	+	8	34
+
+> ~/kube/10/cm/config/nginx.conf
+	*	1733380305	0
+	"	12	0
+	^	12	1
+	.	12	0
+	+	12	0
+
+> /tmp/kubectl-edit-3177463342.yaml
+	*	1733377858	0
+	"	30	17
+	^	30	18
+	.	30	17
+	+	30	17
+
+> ~/kube/09/annotations/pod-annotation.yml
+	*	1733373003	0
+	"	14	22
+	^	14	23
+	.	14	22
+	+	14	22
+
+> ~/kube/08/project3/svc-deploy-foo.yml
+	*	1733364797	0
+	"	33	0
+	^	33	0
+	.	32	29
+	+	32	29

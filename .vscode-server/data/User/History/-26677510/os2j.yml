@@ -1,0 +1,13 @@
+---
+kind: Job
+apiVersion: batch/v1
+metadata:
+  name: os-job
+spec:
+  template:
+    spec:
+      container:
+      - name: os-container
+        image: quay.io/centos/contos:stream9
+        command: ["bash"]
+        args

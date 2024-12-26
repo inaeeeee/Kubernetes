@@ -1,0 +1,12 @@
+---
+kind: ReplicationController
+apiVersion: v1
+metadata:
+  name: rc-mainui
+spec:
+  replicas: 2
+  selector:
+    name: apache
+    app: main
+    rel: stable
+  template:

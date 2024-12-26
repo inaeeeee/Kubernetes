@@ -1,0 +1,9 @@
+---
+kind: PersistentVolume
+apiVersion: v1
+metadata:
+  name: pv1
+spec:
+  nfs:
+    server: 192.168.10.15
+    path: /nas/k8s

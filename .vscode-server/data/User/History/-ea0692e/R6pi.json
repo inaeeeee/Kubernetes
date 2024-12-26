@@ -1,0 +1,12 @@
+{
+    "redhat.telemetry.enabled": true,
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path-windows": "C:\\Users\\soldesk.DESKTOP-974LTHL\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe",
+        "vscode-kubernetes.kubectl-path-windows": "C:\\Users\\soldesk.DESKTOP-974LTHL\\.vs-kubernetes\\tools\\kubectl\\kubectl.exe",
+        "vscode-kubernetes.minikube-path-windows": "C:\\Users\\soldesk.DESKTOP-974LTHL\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe"
+    },
+    "files.autoSave": "afterDelay",
+    "remote.SSH.remotePlatform": {
+        "hybrid2_master": "linux"
+    }
+}

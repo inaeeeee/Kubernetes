@@ -1,0 +1,11 @@
+---
+kind: ReplicaSet
+apiVersion: apps/v1
+metadata:
+  name: mainui-rs
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      name: apache
+  template:

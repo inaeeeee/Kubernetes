@@ -1,0 +1,9 @@
+---
+kind: Service
+apiVersion: v1
+metadata:
+  name: blue-green-svc
+spec:
+  selector:
+    app: web
+    version: blue

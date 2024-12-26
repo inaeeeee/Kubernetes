@@ -1,0 +1,14 @@
+---
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: prodns
+
+---
+kind: Pod
+apiVersion: v1
+metadata:
+  name: web
+  Namespace: prodns
+spec:
+  container

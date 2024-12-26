@@ -1,0 +1,12 @@
+---
+# blue-deploy
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: blue-deploy
+spec:
+  selector:
+    matchLabels:
+      app: web
+      version: blue
+  

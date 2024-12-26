@@ -1,0 +1,6 @@
+---
+kind: service
+apiVersion: v1
+metadata:
+  name: externalname-svc
+spec:

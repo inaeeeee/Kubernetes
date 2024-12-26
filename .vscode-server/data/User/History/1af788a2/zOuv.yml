@@ -1,0 +1,17 @@
+---
+kind: Pod
+apiVersion: v1
+metadata:
+  name: web-pvc
+spec:
+  containers:
+  - name: nginx
+    image: nginx:1.14
+    containerPort: 80
+  # 볼륨 마운트
+    voluemMounts
+  # 볼륨 정의
+  volumes:
+  - name: html
+    persistentVolumeClaim:
+      claimName: pvc-web

@@ -1,0 +1,18 @@
+---
+kind: ReplicaSet
+apiVersion: apps/v1
+metadata:
+  name: nginx-rs
+spec:
+  name: nginx-pod
+  replicas: 3
+  selector:
+    matchLabels:
+      app: webui
+  template:
+    metadataL
+    containers:
+    - name: nginx-container
+      image: nginx:1.14
+      ports:
+      - containerPort: 80

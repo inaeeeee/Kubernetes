@@ -1,0 +1,12 @@
+---
+kind: Pod
+apiVersion: v1
+metadata:
+  name: nolabel-pod
+spec:
+  containers:
+  - name: nolabel-container
+    images: nginx
+    ports:
+    - containerPort: 80
+    

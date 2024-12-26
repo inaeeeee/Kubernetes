@@ -1,0 +1,22 @@
+---
+# deployment
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: webui
+  namespace: metallb-system
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: webui
+  template:
+
+
+---
+kind: Service
+apiVersion: v1
+metadata:
+  name: webapp-loadbalancer-svc
+spec:
+  type: 

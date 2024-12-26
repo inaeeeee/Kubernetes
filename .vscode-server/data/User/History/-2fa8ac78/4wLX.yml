@@ -1,0 +1,8 @@
+---
+#kubectl create cm
+kind: ConfigMap
+apiVersion: v1
+metadata:
+  name: mongodb-configmap
+data:
+  database_url: "mongodb://username:password@mongodb-svc:27017"

@@ -1,0 +1,3 @@
+---
+kind: RplicaSet
+apiVersion: apps/v1

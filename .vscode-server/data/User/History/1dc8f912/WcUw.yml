@@ -1,0 +1,10 @@
+---
+kind: Pod
+apiVersion: v1
+metadata:
+  name: mysql-env-pod
+spec:
+  containers:
+  - name: mysql-container
+    image: mysql
+    port

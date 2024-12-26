@@ -1,0 +1,6 @@
+---
+kind: ReplicationController
+apiVersion: v1
+metadata:
+  name: nginx-rc
+spec:

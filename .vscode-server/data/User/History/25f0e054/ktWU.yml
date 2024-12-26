@@ -1,0 +1,17 @@
+---
+kind: PersistentVolume
+apiVersion: v1
+metadata:
+  name: pv1
+spec:
+  #  볼륨 정의
+  nfs:
+    server: 192.168.10.15
+    path: /nas/k8s
+  # 볼륨 특성
+  capacity:
+    storage: 4Gi
+  # volumeMode: Filesystem
+  accessModes:
+  - ReadWriteMany
+  storageClassName:

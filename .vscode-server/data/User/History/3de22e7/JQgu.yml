@@ -1,0 +1,14 @@
+---
+kind: Delployment
+apiVersion: apps/v1
+metadata:
+  name:
+spec:
+  seplicas: 3
+  selector:
+    matchLabels:
+      app: webui
+  template:
+    metadata:
+      name:
+    spec:

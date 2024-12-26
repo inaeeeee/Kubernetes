@@ -1,0 +1,9 @@
+---
+kind: ReplicaSet
+apiVersion: apps/v1
+metadata:
+  name: nginx-rs
+spec:
+  replicas: 3
+  seletor:
+    met
